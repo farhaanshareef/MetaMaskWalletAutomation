@@ -1,5 +1,5 @@
 # MetaMaskWalletAutomation
-This repository provides explanations of the automation of the MetaMask wallet with Selenium Webdriver with Page Object Pattern.
+This repository provides explanations of the automation of the MetaMask wallet with Selenium Webdriver with Page Object Model Pattern.
 
 ## What is MetaMask?
 
