@@ -17,7 +17,7 @@ def setup():
     # Create the WebDriver instance using the ChromeDriver service and options
     driver = webdriver.Chrome(service=s, options=chrome_options)
 
-    driver.get("https://google.com/")
+    driver.get("https://app.uniswap.org/")
 
     # Maximize the browser window
     driver.maximize_window()
